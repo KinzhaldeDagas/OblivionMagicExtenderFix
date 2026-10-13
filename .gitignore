@@ -1,0 +1,11 @@
+.vs/
+Output/
+Intermediate/
+TestOutput/
+TestIntermediate/
+Analysis/
+*.user
+*.suo
+*.log
+*.VC.db
+*.VC.VC.opendb
